@@ -1,0 +1,9 @@
+{
+	"name": "vmeta",
+	"description": "vibe.internal.meta extraction",
+    "copyright": "Copyright © 2015, qqiangwu",
+    "authors": ["qqiangwu"],
+    "license": "MIT",
+	"dependencies": {
+	}
+}
